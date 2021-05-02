@@ -27,8 +27,7 @@ def solve(s):
     result = [0, 0, 0, 0]
     multiplier = [25, 10, 5, 1]
     for x in range(len(result)):
-        while result[x] * multiplier[x] <= s:
+        while (result[x] + 1) * multiplier[x] <= s:
             result[x] += 1
-        result[x] -= 1
         s = s - result[x] * multiplier[x]
     return result
