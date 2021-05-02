@@ -10,7 +10,7 @@ correct
 
 ## Problem 1-2
 1/1 point (graded)\
-In Python, we can use random.seed(100) at the beginning of a program to generate the same sequence of random numbers each time we run a program.\ 
+In Python, we can use random.seed(100) at the beginning of a program to generate the same sequence of random numbers each time we run a program.
 
 True
 correct
@@ -18,7 +18,7 @@ correct
 
 ## Problem 1-3
 1/1 point (graded)\
-A brute force solution to the 0/1 knapsack problem will always produce an optimal solution.\
+A brute force solution to the 0/1 knapsack problem will always produce an optimal solution.
 
 True
 correct
@@ -26,7 +26,7 @@ correct
 
 ## Problem 1-5
 1/1 point (graded)\
-Consider an undirected graph with non-negative weights that has an edge between each pair of nodes. The shortest distance between any two nodes is always the path that is the edge between the two nodes.\
+Consider an undirected graph with non-negative weights that has an edge between each pair of nodes. The shortest distance between any two nodes is always the path that is the edge between the two nodes.
 
 False
 correct
