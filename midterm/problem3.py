@@ -42,4 +42,6 @@ def song_playlist(songs, max_size):
         if song[2] + capacity <= max_size:
             result.append(song[0])
             capacity += song[2]
+        else:
+            break
     return result
