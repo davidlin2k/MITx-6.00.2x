@@ -25,17 +25,17 @@ True correct
 
 
 ## Problem 8-3
-0/1 point (graded)  
+1/1 point (graded)  
 The polyfit curve for the rabbit population is:
 
-A straight line incorrect
+A concave up curve (looks like a U shape) correct
 
 
 ## Problem 8-4
 0/1 point (graded)  
 The polyfit curve for the fox population is:
 
-A concave up curve (looks like a U shape)incorrect
+A concave up curve (looks like a U shape) incorrect
 
 
 ## Problem 8-5
